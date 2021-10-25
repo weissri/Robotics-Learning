@@ -1,4 +1,4 @@
-#Robotics Learning App
+# Robotics Learning App
  - The app will take images process them into reinforcement learning instructions.
  - Through trial and error, goal oriented and imitation learning.
  - The Robot receiving intstructions will receive instructions through optimal policy.
