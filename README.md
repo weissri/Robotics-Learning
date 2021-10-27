@@ -1,7 +1,8 @@
 # Robotics Learning App
- - The app will take images and process them into reinforcement learning instructions.
+ - The app will take images and other sensory data.
+ - Then process the data into instructions via reinforcement learning and adaptive behaviour.
  - Through trial and error, goal oriented and imitation learning.
- - The Robot receiving intstructions will receive instructions through optimal policy.
+ - The Robot receiving intstructions will receive instructions via an optimal policy.
  - Through constant sweeps of the policy and value space we can obtain an optimal policy.
  - The problem gets more interesting in multi-goal/instruction continuous environments.
  
